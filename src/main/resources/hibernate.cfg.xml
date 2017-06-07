@@ -9,5 +9,12 @@
 
 		<mapping class="model.CustomerBean"  />
 		<mapping class="model.ProductBean"  />
+        <mapping class="model.Stuff"  />
+        <mapping class="model.StuffDetail"  />
+        <mapping class="model.Area"  />
+        <mapping class="model.Cart"  />
+        <mapping class="model.ImageInfo"  />
+        <mapping class="model.BloodBank"  />
+        <mapping class="model.BloodDetail"  />
     </session-factory>
 </hibernate-configuration>

@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by Student on 2017/6/1.
- */
 
 @Controller
 @RequestMapping(value = "/BloodBank")

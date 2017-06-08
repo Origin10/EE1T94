@@ -23,7 +23,7 @@
             <div class="rightArea"> <h4>${user}</h4>歡迎來到PetsFriend！
                 <a href="<c:url value="/secure/login.jsp" />">[登入]</a>
                 <a href="#">[免費註冊]</a>
-                <h3><a href="${pageContext.request.contextPath}/pages/stuff.jsp">Poduct</a></h3>
+                <h3><a href="${pageContext.request.contextPath}/pages/editAddStuff.jsp">Poduct</a></h3>
             </div>
         </div>
     </div>

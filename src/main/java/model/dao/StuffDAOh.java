@@ -19,6 +19,8 @@ import java.util.Set;
 @Repository
 public class StuffDAOh implements StuffDAO {
 
+
+
     private SessionFactory sessionFactory;
 
     private static final String GET_ALL_STMT = "from Stuff order by id";
